@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MapsApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Esther2
+Implementation-Vendor-Id: com.tts
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MapsApp
+Created-By: Maven Integration for Eclipse
+
